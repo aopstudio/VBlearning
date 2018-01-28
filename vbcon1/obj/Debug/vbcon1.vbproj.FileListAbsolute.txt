@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\vbcon1\vbcon1\bin\Debug\vbcon1.exe.config
+C:\Users\MSI\source\repos\vbcon1\vbcon1\bin\Debug\vbcon1.exe
+C:\Users\MSI\source\repos\vbcon1\vbcon1\bin\Debug\vbcon1.pdb
+C:\Users\MSI\source\repos\vbcon1\vbcon1\bin\Debug\vbcon1.xml
+C:\Users\MSI\source\repos\vbcon1\vbcon1\obj\Debug\vbcon1.vbprojResolveAssemblyReference.cache
+C:\Users\MSI\source\repos\vbcon1\vbcon1\obj\Debug\vbcon1.Resources.resources
+C:\Users\MSI\source\repos\vbcon1\vbcon1\obj\Debug\vbcon1.vbproj.GenerateResource.Cache
+C:\Users\MSI\source\repos\vbcon1\vbcon1\obj\Debug\vbcon1.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\vbcon1\vbcon1\obj\Debug\vbcon1.exe
+C:\Users\MSI\source\repos\vbcon1\vbcon1\obj\Debug\vbcon1.xml
+C:\Users\MSI\source\repos\vbcon1\vbcon1\obj\Debug\vbcon1.pdb
